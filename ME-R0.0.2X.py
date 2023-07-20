@@ -1,4 +1,3 @@
-
 W = '\033[97;1m'
 R = '\033[91;1m'
 G = '\033[92;1m'
@@ -1319,7 +1318,7 @@ def Subscraption():
 		print("")
 		print(" Copy And Send Key To Admin")
 		print ("")
-		print (" Your Key : "+ME-RX+key1)
+		print (" Your Key : "+ak+ahsan+key1)
 		print ("")
 		name = input(" Type Your Name : ")
 		print ("")
